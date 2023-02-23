@@ -1,0 +1,6 @@
+[book]
+authors = ["Sparrow0hawk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Research Software Security Book"
